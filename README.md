@@ -1,2 +1,3 @@
 # Sales2023
-Curso Juan Carlos Zuluaga
+## Introducción 
+Proyecto de ejemplo de un carrito de compras - Curso Juan Zuluaga
